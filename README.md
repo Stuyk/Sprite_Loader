@@ -2,9 +2,11 @@
 ---
 A Sprite Loader for GTA:Network
 ---
+
 Like the resource?
 
 Donate a few bucks: https://www.paypal.me/stuyk
+
 ---
 #### USE OF THIS CODE IS STRICTLY FOR THE GTA:NETWORK CLIENT.
 
